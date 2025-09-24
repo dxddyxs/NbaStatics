@@ -10,7 +10,7 @@ namespace NbaStatistics.Models
         [JsonPropertyName("pagination")] 
         public PaginationInfo Pagination { get; set; } = new();
     }
-
+    
     public class PaginationInfo
     {
         [JsonPropertyName("page")]
