@@ -83,14 +83,12 @@ public class PlayerModel
     [JsonPropertyName("DeletedAt")]
     public DateTime? ProviderDeletedAt { get; set; } = null;
 
-    // Controle local (não vem da API, mas você usa internamente)
     public DateTime LastFetchedAt { get; set; } = DateTime.UtcNow;
 
     public string RawJson { get; set; } = string.Empty;
 
     public PlayerModel() { }
 
-    // Construtor de cópia
     public PlayerModel(PlayerModel player)
     {
         ExternalId = player.ExternalId;
