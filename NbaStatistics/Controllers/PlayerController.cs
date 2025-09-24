@@ -1,8 +1,8 @@
 ﻿using System.Text.Json;
 using Microsoft.AspNetCore.Mvc;
-using NbaStatics.Models;
+using NbaStatistics.Models;
 
-namespace NbaStatics.Controllers
+namespace NbaStatistics.Controllers
 {
     [ApiController]
     [Route("[controller]")]

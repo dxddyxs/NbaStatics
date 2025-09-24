@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NbaStatics", "NbaStatics\NbaStatics.csproj", "{7B61B969-1BD7-4EE2-9E14-6D847FB77B1B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NbaStatistics", "NbaStatistics\NbaStatistics.csproj", "{7B61B969-1BD7-4EE2-9E14-6D847FB77B1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

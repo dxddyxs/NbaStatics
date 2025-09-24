@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace NbaStatics.Models
+namespace NbaStatistics.Models
 {
     public class PlayerResponse
     {
